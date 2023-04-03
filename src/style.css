@@ -516,5 +516,7 @@ footer .container .part2 .copyright{
     footer .container .part2 .menu{
         position: relative;
         top: -50px;
+        align-items: center;
+        flex-direction: column;
     }
 }
